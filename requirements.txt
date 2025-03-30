@@ -1,0 +1,9 @@
+setuptools
+pandas
+numpy
+flask
+gunicorn
+bcrypt
+scikit-learn
+
+-e .
