@@ -1,0 +1,8 @@
+setuptools
+pandas
+numpy
+flask
+gunicorn
+scikit-learn
+
+-e .
